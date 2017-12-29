@@ -1,2 +1,2 @@
-# niuniu
-niuniu game
+# hello-world
+Hello world new project template.
